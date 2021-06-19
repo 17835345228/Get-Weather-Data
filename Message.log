@@ -1,0 +1,2 @@
+2020-10-19 19:24:00,267 - Get_Day_Data.py[line:202] - INFO: 抓取2020-10-18的数据
+2020-10-19 19:35:40,257 - base.py[line:144] - INFO: Job "job (trigger: cron[day_of_week='*', hour='19', minute='24'], next run at: 2020-10-20 19:24:00 CST)" executed successfully
